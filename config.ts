@@ -18,12 +18,12 @@ interface ConfigCache {
 }
 
 const defaults: Record<string, any> = {
-  PREFIX: '.',
+  PREFIX: '§',
   MODE: 'public',
-  CREATOR: '2349133354644',
-  OWNER_NUMBERS: ['2349133354644'],
-  BOT_NAME: '𝐗𝐘𝐋𝐎-𝐌𝐃',
-  FOOTER: '© 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑫𝒂𝒗𝒊𝒅𝑿𝑻𝒆𝒄𝒉',
+  CREATOR: '254108720384',
+  OWNER_NUMBERS: ['254108720384'],
+  BOT_NAME: 'Voltaria',
+  FOOTER: '🌸 Powered by Voltaria Bot',
   ANTIDELETE_MODE: 'off',
   ANTIDELETE_SCOPE: 'all',
   ANTIDSTATUS_MODE: 'off',
