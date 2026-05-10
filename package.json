@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2-runtime start 'tsx index.ts' --name XYLO-MD",
+    "start": "node health-server.js & pm2-runtime start 'tsx index.ts' --name XYLO-MD",
     "pm2:start": "pm2 start 'tsx index.ts' --name XYLO-MD --watch",
     "build": "echo 'No build needed for tsx'",
     "dev": "tsx watch index.ts",
