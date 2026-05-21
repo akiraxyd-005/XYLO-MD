@@ -23,7 +23,7 @@ const defaults: Record<string, any> = {
   CREATOR: '254108720384',
   OWNER_NUMBERS: ['254108720384'],
   BOT_NAME: 'Voltaria',
-  FOOTER: '🌸 Powered by Voltaria Bot',
+  FOOTER: '> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙽£𝚇𝚄$',
   ANTIDELETE_MODE: 'off',
   ANTIDELETE_SCOPE: 'all',
   ANTIDSTATUS_MODE: 'off',
